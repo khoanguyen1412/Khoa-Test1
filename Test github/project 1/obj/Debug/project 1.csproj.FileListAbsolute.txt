@@ -7,3 +7,12 @@ E:\Test github\project 1\obj\Debug\project 1.csproj.GenerateResource.Cache
 E:\Test github\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
 E:\Test github\project 1\obj\Debug\project 1.exe
 E:\Test github\project 1\obj\Debug\project 1.pdb
+E:\Khoa-Test1\Test github\project 1\bin\Debug\project 1.exe.config
+E:\Khoa-Test1\Test github\project 1\bin\Debug\project 1.exe
+E:\Khoa-Test1\Test github\project 1\bin\Debug\project 1.pdb
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project 1.csprojResolveAssemblyReference.cache
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project_1.Properties.Resources.resources
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project 1.csproj.GenerateResource.Cache
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project 1.exe
+E:\Khoa-Test1\Test github\project 1\obj\Debug\project 1.pdb
