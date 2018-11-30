@@ -1,9 +1,1 @@
-new
-<<<<<<< HEAD
-add on local
-=======
-add on web
->>>>>>> a32cb7b3c3855457b9c818cd96e6a43d0fe80795
-.
-.
-at add local 2 2
+khoa at local
